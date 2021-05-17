@@ -22,4 +22,4 @@ urlpatterns = [
 
     path('<int:pk>/save/',save_quiz_view,name="save_view"),
 
-]+ static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)
+]
