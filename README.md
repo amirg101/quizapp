@@ -8,3 +8,7 @@ https://quiziee.pythonanywhere.com/
 ![Screenshot (300)](https://user-images.githubusercontent.com/31856332/120507394-65a1e280-c3e4-11eb-9eba-d4425d619596.png)
 ![Screenshot (301)](https://user-images.githubusercontent.com/31856332/120507389-6470b580-c3e4-11eb-8b94-8d30712a86c3.png)
 
+ # LOGiN AND REGISTER PAGE
+ 
+![Screenshot (302)](https://user-images.githubusercontent.com/31856332/120507776-bc0f2100-c3e4-11eb-8dc2-3abd505c8853.png)
+![Screenshot (303)](https://user-images.githubusercontent.com/31856332/120507767-baddf400-c3e4-11eb-8d9f-dd4c385752d1.png)
